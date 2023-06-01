@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/guswojo1" target="blank"><img src="https://img.shields.io/twitter/follow/guswojo1?logo=twitter&style=for-the-badge" alt="guswojo1" /></a> </p>
 
-- 🔭 I’m currently working on **C and C++ game dev**
+- 🔭 I’m currently working on **A hosting website with PHP**
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **Python**
 
